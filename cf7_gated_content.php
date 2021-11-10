@@ -333,7 +333,8 @@ class ContactFormGatedContent
         $url,
         $button_text,
         $button_classes,
-        $content
+        $content,
+        $contact_form_id
       );
     }
   }
